@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneword_ios", "Phoneword_ios\Phoneword_ios.csproj", "{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Release|iPhone.Build.0 = Release|iPhone
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AF17D3F1-A5AF-4714-A0B2-E7C43EEC2C89}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
